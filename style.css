@@ -1,0 +1,260 @@
+
+#cuadroLim{
+    margin-left: 28%;
+    position: relative;
+    float: left;
+    height: 500px;
+    width: 830px;
+    background-color: white;
+}
+
+#circuloLim {
+    background-color: rgb(128, 18, 18);
+    border-radius: 100%;
+    position: relative;
+    float: left;
+    height: 279px;
+    width: 279px;
+    margin-top: 127px;
+    margin-left: 301px;
+}
+#mediocirculo{
+    float: left;
+    width: 274px;
+    height: 279px;
+    margin-top: 144px;
+    margin-left: 3px;
+    shape-outside: circle(50% at 30%);
+    clip-path: circle(50% at 0%);
+    transform: rotate(90deg);
+    background: rgb(0, 36, 165);;
+}
+#mediocirculo2{
+    float: left;
+    width: 279px;
+    height: 279px;
+    margin-top: -565px;
+    margin-left: -1px;
+    shape-outside: circle(50% at 30%);
+    clip-path: circle(50% at 0%);
+    transform: rotate(270deg);
+    background: rgb(128, 18, 18);
+}
+#circulo2{
+    background-color: rgb(0, 36, 165);
+    border-radius: 100%;
+    position: relative;
+    float: left;
+    height: 140px;
+    width: 140px;
+    margin-top: -353px;
+    margin-left: 139px;
+}
+
+#circulo3{
+    background-color: rgb(128, 18, 18);
+    border-radius: 100%;
+    position: relative;
+    float: left;
+    height: 140px;
+    width: 140px;
+    margin-top: -347px;
+    margin-left: -1px;
+}
+
+#rectangulo_1{
+    margin-left: 293px;
+    position: relative;
+    float: left;
+    height: 133px;
+    width: 30px;
+    margin-top: -97px;
+    background-color: black;
+    transform: rotate(145deg);
+}
+
+#rectangulo_2{
+    margin-left: -83px;
+    position: relative;
+    float: left;
+    height: 133px;
+    width: 30px;
+    margin-top: -60px;
+    background-color: black;
+    transform: rotate(145deg);
+}
+
+
+#rectangulo_3{
+    margin-left: -78px;
+    position: relative;
+    float: left;
+    height: 60px;
+    width: 30px;
+    margin-top: -71px;
+    background-color: black;
+    transform: rotate(145deg);
+}
+
+#rectangulo_4{
+    margin-left: -35px;
+    position: relative;
+    float: left;
+    height: 56px;
+    width: 30px;
+    margin-top: -10px;
+    background-color: black;
+    transform: rotate(145deg);
+}
+
+#rectangulo_11{
+    margin-left: -14px;
+    position: relative;
+    float: left;
+    height: 133px;
+    width: 30px;
+    margin-top: -337px;
+    background-color: black;
+    transform: rotate(45deg);
+}
+
+#rectangulo_22{
+    margin-left: -38px;
+    position: relative;
+    float: left;
+    height: 133px;
+    width: 30px;
+    margin-top: -361px;
+    background-color: black;
+    transform: rotate(45deg);
+}
+
+#rectangulo_33{
+    margin-left: -62px;
+    position: relative;
+    float: left;
+    height: 133px;
+    width: 30px;
+    margin-top: -386px;
+    background-color: black;
+    transform: rotate(45deg);
+}
+#mediorec1{
+    margin-left: 252px;
+    position: relative;
+    float: left;
+    height: 56px;
+    width: 30px;
+    margin-top: -255px;
+    background-color: black;
+    transform: rotate(145deg);
+
+}
+
+#mediorec2{
+    margin-left: 308px;
+    position: relative;
+    float: left;
+    height: 56px;
+    width: 30px;
+    margin-top: -291px;
+    background-color: black;
+    transform: rotate(145deg);
+}
+    
+
+#barra{
+    margin-left: 258px;
+    position: relative;
+    float: left;
+    height: 133px;
+    width: 30px;
+    margin-top: -344px;
+    background-color: black;
+    transform: rotate(145deg);
+}
+#mediorec3{
+    margin-left: 262px;
+    position: relative;
+    float: left;
+    height: 56px;
+    width: 30px;
+    margin-top: -357px;
+    background-color: black;
+    transform: rotate(145deg);
+}
+#mediorec4{
+    margin-left: 209px;
+    position: relative;
+    float: left;
+    height: 56px;
+    width: 30px;
+    margin-top: -317px;
+    background-color: black;
+    transform: rotate(145deg);
+}
+    
+#mediasbarra1{
+    margin-left: 213px;
+    position: relative;
+    float: left;
+    height: 56px;
+    width: 30px;
+    margin-top: -35px;
+    background-color: black;
+    transform: rotate(45deg);
+}
+
+
+#mediasbarra4{
+    margin-left: -5px;
+    position: relative;
+    float: left;
+    height: 56px;
+    width: 30px;
+    margin-top: -10px;
+    background-color: black;
+    transform: rotate(45deg);
+}
+
+#mediasbarra5{
+    margin-left: 20px;
+    position: relative;
+    float: left;
+    height: 56px;
+    width: 30px;
+    margin-top: -60px;
+    background-color: black;
+    transform: rotate(45deg);
+}
+#mediasbarra6{
+    margin-left: 586px;
+    position: relative;
+    float: left;
+    height: 56px;
+    width: 30px;
+    margin-top: -130px;
+    background-color: black;
+    transform: rotate(45deg);
+}
+
+#mediasbarra2{
+    margin-left: 586px;
+    position: relative;
+    float: left;
+    height: 56px;
+    width: 30px;
+    margin-top: -30px;
+    background-color: rgb(0, 0, 0);
+    transform: rotate(45deg);
+}
+#mediasbarra3{
+    margin-left: 636px;
+    position: relative;
+    float: left;
+    height: 56px;
+    width: 30px;
+    margin-top: -106px;
+    background-color: rgb(0, 0, 0);
+    transform: rotate(45deg);
+}
